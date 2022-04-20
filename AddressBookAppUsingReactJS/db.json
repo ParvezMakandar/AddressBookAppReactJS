@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "Parvez",
+      "address": "1st Street, Azam Nagar, Near Petrol Pump,",
+      "city": "Belguam",
+      "state": "Karnataka",
+      "zipcode": "590010",
+      "phonenumber": "+91-9999999999",
+      "id": 1,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    },
+    {
+      "name": "Zaid",
+      "address": "5st Street, Gandhi Nagar, Near Sankam Hotel",
+      "city": "Belgaum",
+      "state": "Karnataka",
+      "zipcode": "590016",
+      "phonenumber": "+91-9989898989",
+      "id": 2,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    },
+    {
+      "name": "Aqsa",
+      "address": "Cabo de Rama",
+      "city": "Panaji",
+      "state": "Goa",
+      "zipcode": "544004",
+      "phonenumber": "+91-9999898987",
+      "id": 3,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    }
+  ]
+}
